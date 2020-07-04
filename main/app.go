@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func printName() {
-	fmt.Println("Antony Mirsandy")
+	fmt.Println("Antony Mirsandy Maho")
 }
 
 func main() {
